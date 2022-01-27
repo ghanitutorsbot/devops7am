@@ -17,7 +17,7 @@ docker pull imagename
 
 docker run imagename
 
- options: -d , -it(exit  Ctrl+p+q)
+                 options: -d , -it(exit  Ctrl+p+q)
  
 docker attach containerid/name
 
