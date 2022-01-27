@@ -1,0 +1,34 @@
+Docker usages
+
+
+docker definintion
+virtual machine
+docker - alternative to virtual machine
+
+Images - Containers
+
+Images - already create (Base) - Containers (install Application) - Images (Application + Base image) + push (docker hub)
+
+
+
+
+
+
+
+
+container id/container name
+
+
+
+docker images - nothing but os/app in registry (dockerhub)
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,11 @@
+Software development - Process
+
+Devops  - Process (Mind process)
+
+Devops tools 
+
+1. Infra - Cloud - AWS ec2/Azure vm
+2. CI/CD - Tools knowledge (Working) (Automation) - Jenkins (git, maven, sonarqube, tomcat, java)
+3. Cloud infra automation/Configuration management - Terraform/Ansible
+4. Micorservices - Docker/kubernetes
+5. Monitoring - Nagios
